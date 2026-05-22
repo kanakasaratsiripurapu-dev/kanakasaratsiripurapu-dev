@@ -10,7 +10,7 @@
 <div align="center">
 
 <a href="https://github.com/kanakasaratsiripurapu-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&width=820&height=90&lines=Hey+there%2C+I'm+Sarat+%F0%9F%91%8B;Building+production+backends+%26+agentic+AI+systems;Big+Data+%E2%80%A2+Distributed+Systems+%E2%80%A2+GenAI+Engineering;Published+Springer+Author+%E2%80%A2+M.S.+%40+SJSU" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Hey+there%2C+I'm+Sarat+%F0%9F%91%8B;Building+production+backends+%26+agentic+AI+systems;Big+Data+%E2%80%A2+Distributed+Systems+%E2%80%A2+GenAI+Engineering;Published+Springer+Author+%E2%80%A2+M.S.+%40+SJSU" alt="Typing SVG" />
 </a>
 
 <br/>
