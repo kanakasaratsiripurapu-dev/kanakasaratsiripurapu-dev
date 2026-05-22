@@ -84,6 +84,13 @@ Master's student in **Software Engineering — AI Specialization** at San José 
 - **Tech Stack:** Python, FastAPI, vector DB, OpenAI, Next.js.
 - 🔗 [github.com/kanakasaratsiripurapu-dev/salespilot](https://github.com/kanakasaratsiripurapu-dev/salespilot)
 
+### 🔹 Unscribe — Smart Subscription Manager
+
+**Tool to automate unsubscribing from low-value email subscriptions.**
+
+- **Tech Stack:** Python.
+- 🔗 [github.com/kanakasaratsiripurapu-dev/unscribe](https://github.com/kanakasaratsiripurapu-dev/unscribe)
+
 ### 🔹 Adaptive Ad-Click Optimization with Bandits
 
 **Multi-armed bandit system** for online ad selection.
@@ -187,15 +194,7 @@ Master's student in **Software Engineering — AI Specialization** at San José 
 
 ---
 
-## 📊 GitHub Activity
-
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kanakasaratsiripurapu-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kanaka's GitHub stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanakasaratsiripurapu-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br/>
 
 ⭐️ From [kanakasaratsiripurapu-dev](https://github.com/kanakasaratsiripurapu-dev)
 
