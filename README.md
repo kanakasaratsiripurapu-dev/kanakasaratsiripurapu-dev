@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile.png" alt="Kanaka Sarat Siripurapu" width="170" style="border-radius: 50%;" />
+</p>
+
 <h1 align="center">KANAKA SARAT SIRIPURAPU</h1>
 
 <p align="center">
