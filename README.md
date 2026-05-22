@@ -26,6 +26,7 @@
 Master's student in **Artificial Intelligence at San José State University** with hands-on experience across the full software development lifecycle — from distributed Big Data pipelines to deployed REST APIs to agentic AI products.
 
 - **Co-author of published research** on HPMR-optimized Hadoop MapReduce for cancer survival analysis (95% accuracy, 30% speed-up over default Hadoop).
+- **Contributor at [fono.services](https://github.com/kanakasaratsiripurapu-dev/unscribe)** — building Unscribe, an agentic AI subscription-management product.
 - Production focus on **Python, Java, FastAPI, Hadoop / MapReduce, PostgreSQL, Docker, and React** — end-to-end backend systems and ML services.
 - Strong fundamentals: **204 LeetCode problems solved** (117 medium · 35 hard), Object-Oriented Design, REST API design, JUnit / pytest software testing.
 - **3 additional research papers under submission** in NLP, Computer Vision, and Reinforcement Learning.
@@ -76,12 +77,12 @@ Master's student in **Artificial Intelligence at San José State University** wi
 - Containerized **5-node Hadoop cluster** (NameNode, DataNode, ResourceManager, NodeManager, HistoryServer) via Docker Compose; scaled linearly to **100 GB** datasets.
 - **Tech:** Java · Apache Hadoop · HDFS · MapReduce · Docker Compose · Maven · JUnit
 
-### 🔹 [SubScout — AI-Powered Subscription Management Agent](https://github.com/kanakasaratsiripurapu-dev/CMPE-Fall25-Kanakasarat-Siripurapu-subscription-cancelling-agentic-app) `(Ongoing)`
-**Agentic AI backend that scans Gmail and auto-detects subscriptions.**
+### 🔹 [Unscribe — AI-Powered Subscription Management Agent](https://github.com/kanakasaratsiripurapu-dev/unscribe) · *fono.services product*
+**Contributor to an early-stage AI product at Fono — agentic AI that scans Gmail and auto-detects subscriptions.**
 - FastAPI REST API with **Celery + Redis** async task queues for scheduled Gmail scans.
 - **Google OAuth 2.0** + LLM prompt pipeline to extract subscription metadata (cost, renewal date, cancellation link) from raw email text.
-- Encrypted-credentials **PostgreSQL** schema; full stack containerized via Docker Compose.
-- **Tech:** Python · FastAPI · Celery · Redis · PostgreSQL · Docker Compose · Google OAuth · LLM
+- Encrypted-credentials **PostgreSQL** schema; full stack containerized via Docker Compose with a **Next.js** frontend.
+- **Tech:** Python · FastAPI · Celery · Redis · PostgreSQL · Docker Compose · Google OAuth · Next.js · LLM
 
 ### 🔹 [SalesPilot — Sales Route & Deal Prioritization Backend](https://github.com/kanakasaratsiripurapu-dev/salespilot) · [Live Demo](https://salespilot-44lq.onrender.com)
 **Deployed production backend** that scores accounts and generates TSP-optimized visit routes.
