@@ -32,20 +32,49 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;`whoami`
 
-```yaml
-name:        "Kanaka Sarat Siripurapu"
-role:        "Software Engineer · Applied AI / GenAI · Big Data Researcher"
-location:    "San José, California 🌉"
-education:   "M.S. Software Engineering — AI Specialization @ SJSU"
-currently:   "Architecting production backends & agentic AI systems"
-focus:       ["Distributed Systems", "LLM Apps", "RAG", "Cloud-Native"]
-fun-fact:    "Published in Springer Lecture Notes 📚"
-mantra:      "Ship boring tech. Build magical experiences. ✨"
+<table>
+<tr>
+<td valign="top" width="55%">
+
+```ts
+const sarat = {
+  name:       "Kanaka Sarat Siripurapu",
+  role:       "Software Engineer · Applied AI · Big Data",
+  base:       "San José, California 🌉",
+  edu:        "M.S. Software Engineering — AI @ SJSU",
+  building:   ["Agentic AI", "RAG", "Distributed Backends"],
+  shipped:    ["1 Springer chapter", "3 papers under review"],
+  loves:      ["Spring Boot", "Kafka", "LLMs", "Clean APIs"],
+  mantra:     "Ship boring tech. Build magical experiences ✨",
+};
 ```
 
-> 🚀 Master's student in **Software Engineering — AI Specialization** at **San José State University** with hands-on industry experience across backend engineering, large-scale data pipelines, and applied AI.
+</td>
+<td valign="top" width="45%">
+
+#### 🧭 &nbsp;Currently
+<img src="https://img.shields.io/badge/-Architecting%20agentic%20AI%20systems-8B5CF6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/-Scaling%20multi--tenant%20backends-22D3EE?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/-Researching%20distributed%20data-F472B6?style=flat-square&labelColor=0D1117" />
+
+#### 🎯 &nbsp;Focus Areas
+<img src="https://img.shields.io/badge/-Distributed%20Systems-0D1117?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/-LLM%20Apps%20%26%20RAG-0D1117?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cloud--Native-0D1117?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/-Backend%20Engineering-0D1117?style=flat-square&logo=springboot&logoColor=white" />
+
+#### ⚡ &nbsp;Fun Fact
+<sub>Published in <b>Springer Lecture Notes</b> 📚 — and I still get excited every time a green CI checkmark lands. ✅</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+> 🚀 &nbsp;Master's student in **Software Engineering — AI Specialization** at **San José State University**, with hands-on industry experience across **backend engineering**, **large-scale data pipelines**, and **applied AI**.
 >
-> 💡 Engineered **production backends** powering AI products, EdTech, and SaaS tools used by **thousands of users**. Authored **3 research papers** (under submission) and **1 published Springer chapter** on Hadoop performance optimization.
+> 💡 &nbsp;Engineered **production backends** powering AI products, EdTech, and SaaS tools used by **thousands of users** — and co-authored a **Springer-published chapter** on Hadoop performance optimization, with **3 more papers** under submission.
 
 <br/>
 
