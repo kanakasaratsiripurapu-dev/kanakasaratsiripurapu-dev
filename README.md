@@ -1,6 +1,6 @@
 <!--
   Kanaka Sarat Siripurapu — GitHub Profile README
-  Polished overview / portfolio page (Eshan-style layout)
+  Polished overview / portfolio page
 -->
 
 <div align="center">
@@ -16,7 +16,7 @@ Building production-grade backends, distributed Big Data pipelines, and agentic 
 [![Email](https://img.shields.io/badge/Email-kanakasarat.siripurapu%40sjsu.edu-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanakasarat.siripurapu@sjsu.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanaka%20Sarat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanaka-sarat-siripurapu/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kanak_sarat/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/kanakasaratsiripurapu-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-kanakasaratsiripurapu--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanakasaratsiripurapu-dev)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kanakasaratsiripurapu-dev&style=for-the-badge&color=blueviolet)
 
@@ -28,7 +28,7 @@ Building production-grade backends, distributed Big Data pipelines, and agentic 
 
 Master's student in **Software Engineering — AI Specialization** at San José State University with hands-on industry experience across backend engineering, large-scale data pipelines, and applied AI.
 
-- Engineered **production backends** powering AI products, EdTech platforms, and SaaS tools used by **thousands of users**.
+- Engineered **production backends** powering AI products, EdTech platforms, and SaaS tools.
 - Authored **3 research papers** (under submission) and **1 published Springer chapter** on Hadoop performance optimization.
 - Experienced in **Java, Python, Spring Boot, FastAPI, AWS, GCP, Kafka, Spark, Hadoop, and modern GenAI tooling**.
 
@@ -37,9 +37,10 @@ Master's student in **Software Engineering — AI Specialization** at San José 
 ## 🏆 Honors & Awards
 
 ### 🥇 Published Researcher — Springer Lecture Notes (2024)
+
 *GITAM University, India*
 
-- Co-authored a Springer book chapter on **"Performance Optimization of Hadoop Clusters for Heterogeneous Workloads"**.
+- Co-authored a Springer book chapter on **Hadoop performance optimization for heterogeneous workloads**.
 - Benchmarked **YARN scheduling strategies** across heterogeneous nodes, achieving measurable throughput gains.
 - **3 additional papers** currently under submission in applied AI, distributed systems, and data engineering venues.
 
@@ -69,67 +70,57 @@ Master's student in **Software Engineering — AI Specialization** at San José 
 
 - **Live Instruction:** Delivered cohort-based **Data Structures, Algorithms, and Java** training to **500+ students** across multiple batches.
 - **Curriculum Design:** Authored hands-on coding labs, projects, and assessments aligned with industry interview standards.
-- **Mentorship:** Coached learners 1:1 on system design, problem-solving, and interview prep — many of whom landed roles at top tech companies.
+- **Mentorship:** Coached learners 1:1 on system design, problem-solving, and interview prep.
 
 ---
 
 ## 🚀 Projects & Open Source
 
-### 🔹 Unscribe — AI-Powered Smart Unsubscribe Agent
-
-**Agentic email-cleanup tool** that classifies inbox subscriptions and one-click-unsubscribes from low-value senders.
-
-- **Functionality:** Uses **LLM classification + Gmail API** to detect promotional/newsletter traffic and execute unsubscribe flows safely.
-- **Tech Stack:** Python, FastAPI, Google OAuth, LangChain, OpenAI API, React.
-
 ### 🔹 SalesPilot — AI Sales Copilot
 
-**Production-grade RAG application** that gives sales teams instant context on prospects, accounts, and prior conversations.
+**RAG-powered sales-assistance tool** that surfaces prospect context and prior conversations on demand.
 
 - **Functionality:** Ingests CRM + email + call-transcript data into a vector store and answers natural-language queries with citations.
-- **Tech Stack:** Python, FastAPI, Pinecone, OpenAI, Next.js, Vercel.
+- **Tech Stack:** Python, FastAPI, vector DB, OpenAI, Next.js.
+- 🔗 [github.com/kanakasaratsiripurapu-dev/salespilot](https://github.com/kanakasaratsiripurapu-dev/salespilot)
 
-### 🔹 Hadoop YARN Scheduling Benchmark (Springer Publication)
+### 🔹 Adaptive Ad-Click Optimization with Bandits
 
-**Published research project** evaluating Hadoop cluster performance under heterogeneous workloads.
+**Multi-armed bandit system** for online ad selection.
 
-- **Methodology:** Benchmarked Capacity, Fair, and FIFO schedulers across mixed CPU/IO/memory-bound jobs on a real cluster.
-- **Tech Stack:** Hadoop, YARN, HDFS, MapReduce, Java, Python.
+- **Methodology:** Implements **Epsilon-Greedy, UCB, and Thompson Sampling** to optimize click-through rate under stationary and non-stationary environments.
+- **Tech Stack:** Python, Jupyter, NumPy, Matplotlib.
+- 🔗 [github.com/kanakasaratsiripurapu-dev/adaptive-ad-click-optimization-bandits](https://github.com/kanakasaratsiripurapu-dev/adaptive-ad-click-optimization-bandits)
 
-### 🔹 Distributed Big Data Pipeline (Academic)
+### 🔹 EfficientNet Tomato Leaf Disease Classifier
 
-**End-to-end batch + streaming pipeline** built on the modern data stack.
+**Transfer-learning classifier** for 11-class tomato leaf disease detection (research paper under submission).
 
-- **Functionality:** Ingests events via Kafka, processes with Spark Structured Streaming, lands curated data into a warehouse for analytics.
-- **Tech Stack:** Apache Kafka, Apache Spark, Hadoop, Python, SQL.
+- **Methodology:** EfficientNet-B0 backbone + Augmentor + Keras pipeline trained on plant-pathology imagery.
+- **Tech Stack:** Python, TensorFlow / Keras, Augmentor, Jupyter.
+- 🔗 [github.com/kanakasaratsiripurapu-dev/efficientnet-tomato-leaf-disease](https://github.com/kanakasaratsiripurapu-dev/efficientnet-tomato-leaf-disease)
 
-### 🔹 Real-Time Collaborative Coding Backend
+### 🔹 Hadoop MapReduce — Cancer Survival Analysis
 
-**Low-latency WebSocket service** powering shared code editing and live interview sessions.
+**HPMR-optimized Hadoop MapReduce pipeline** for breast-cancer survival analysis on the Wisconsin dataset (published research at GITAM University).
 
-- **Functionality:** Multi-user editing with operational sync, presence, and persistent session state.
-- **Tech Stack:** Java, Spring Boot, WebSockets, Redis, PostgreSQL.
+- **Functionality:** Java + Docker Compose Hadoop cluster running distributed survival-analysis jobs over heterogeneous nodes.
+- **Tech Stack:** Java, Hadoop, MapReduce, Docker, HDFS.
+- 🔗 [github.com/kanakasaratsiripurapu-dev/hadoop-mapreduce-cancer-survival](https://github.com/kanakasaratsiripurapu-dev/hadoop-mapreduce-cancer-survival)
 
-### 🔹 Multi-Tenant SaaS Backend (Innovate)
+### 🔹 Multi-Label Telugu News Classification
 
-**Production REST API layer** powering tenant onboarding, role-based access, billing, and audit logging.
+**Multi-label NLP classifier** for Telugu-language news articles — TF-IDF + LinearSVC baseline vs. CNN, LSTM, Bi-LSTM (TensorFlow). Research paper under submission.
 
-- **Functionality:** Tenant isolation, JWT auth, plan-based feature gating, and Stripe-style usage metering.
-- **Tech Stack:** Java, Spring Boot, PostgreSQL, AWS, GitHub Actions.
+- **Tech Stack:** Python, TensorFlow, scikit-learn, NLTK, Jupyter.
+- 🔗 [github.com/kanakasaratsiripurapu-dev/multilabel-telugu-news-classification](https://github.com/kanakasaratsiripurapu-dev/multilabel-telugu-news-classification)
 
-### 🔹 EdTech Learning Platform (Academor)
+### 🔹 Recommender Systems
 
-**Cohort-based learning portal** with assignments, progress tracking, and mentor dashboards.
+**Recommender-systems implementations** exploring collaborative filtering, content-based, and hybrid approaches.
 
-- **Functionality:** Student progress analytics, automated grading hooks, and instructor reporting views.
-- **Tech Stack:** Java, Spring Boot, MySQL, REST APIs.
-
-### 🔹 LeetCode Practice — 200+ Problems Solved
-
-Consistent **DSA + problem-solving** practice across arrays, graphs, DP, and system-design-style problems.
-
-- **Focus Areas:** Graphs, dynamic programming, sliding window, heaps, and design questions.
-- **Tech Stack:** Java, Python.
+- **Tech Stack:** Python, Pandas, scikit-learn, Jupyter.
+- 🔗 [github.com/kanakasaratsiripurapu-dev/recommender_systems](https://github.com/kanakasaratsiripurapu-dev/recommender_systems)
 
 ---
 
@@ -160,6 +151,14 @@ Consistent **DSA + problem-solving** practice across arrays, graphs, DP, and sys
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
+### ML / AI
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 ### DevOps & Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -188,12 +187,15 @@ Consistent **DSA + problem-solving** practice across arrays, graphs, DP, and sys
 
 ---
 
+## 📊 GitHub Activity
+
 <div align="center">
 
-### 📊 GitHub Activity
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kanakasaratsiripurapu-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kanaka's GitHub stats" />
 
-![Kanaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanakasaratsiripurapu-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanakasaratsiripurapu-dev&layout=compact&theme=tokyonight&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanakasaratsiripurapu-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/>
 
 ⭐️ From [kanakasaratsiripurapu-dev](https://github.com/kanakasaratsiripurapu-dev)
 
