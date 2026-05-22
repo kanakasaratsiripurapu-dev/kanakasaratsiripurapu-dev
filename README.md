@@ -1,201 +1,402 @@
 <!--
-  Kanaka Sarat Siripurapu — GitHub Profile README
-  Polished overview / portfolio page
--->
+████████████████████████████████████████████████████████████████████
+  KANAKA SARAT SIRIPURAPU — GITHUB PROFILE README
+    Crafted with ❤  ·  Trendy aesthetic  ·  Glassmorphism + Neon vibes
+    ████████████████████████████████████████████████████████████████████
+    -->
 
-<div align="center">
+    <!-- ╭─────────────────────────  HERO BANNER  ─────────────────────────╮ -->
 
-# KANAKA SARAT SIRIPURAPU
+    <a href="https://github.com/kanakasaratsiripurapu-dev">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Kanaka%20Sarat%20Siripurapu&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Applied%20AI%20%2F%20GenAI%20%E2%80%A2%20Big%20Data%20Researcher&descSize=18&descAlignY=60&descAlign=50" alt="header" />
+      </a>
 
----
+      <div align="center">
 
-### Software Engineer · Applied AI / GenAI Engineer · Big Data Researcher
+      <!-- ╭──────────────────────  TYPING ANIMATION  ──────────────────────╮ -->
 
-Building production-grade backends, distributed Big Data pipelines, and agentic AI systems 🚀
+      <a href="https://github.com/kanakasaratsiripurapu-dev">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&width=820&height=90&lines=Hey+there%2C+I'm+Sarat+%F0%9F%91%8B;Building+production+backends+%26+agentic+AI+systems;Big+Data+%E2%80%A2+Distributed+Systems+%E2%80%A2+GenAI+Engineering;Published+Springer+Author+%E2%80%A2+M.S.+%40+SJSU" alt="Typing SVG" />
+        </a>
 
-[![Email](https://img.shields.io/badge/Email-kanakasarat.siripurapu%40sjsu.edu-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanakasarat.siripurapu@sjsu.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kanaka%20Sarat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanaka-sarat-siripurapu/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kanak_sarat/)
-[![GitHub](https://img.shields.io/badge/GitHub-kanakasaratsiripurapu--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanakasaratsiripurapu-dev)
+        <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kanakasaratsiripurapu-dev&style=for-the-badge&color=blueviolet)
+        <!-- ╭────────────────────────  SOCIAL LINKS  ────────────────────────╮ -->
 
-</div>
+        <a href="mailto:kanakasarat.siripurapu@sjsu.edu">
+          <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+          </a>
+          <a href="https://www.linkedin.com/in/kanaka-sarat-siripurapu/">
+            <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+            </a>
+            <a href="https://leetcode.com/u/kanak_sarat/">
+              <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" />
+              </a>
+              <a href="https://github.com/kanakasaratsiripurapu-dev">
+                <img src="https://img.shields.io/badge/-Portfolio-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=000000" />
+                </a>
 
----
+                <br/><br/>
 
-## 🧭 Summary
+                <img src="https://komarev.com/ghpvc/?username=kanakasaratsiripurapu-dev&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+                <img src="https://img.shields.io/github/followers/kanakasaratsiripurapu-dev?style=for-the-badge&color=blue&labelColor=000000&logo=github" />
+                <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=for-the-badge&labelColor=000000" />
 
-Master's student in **Software Engineering — AI Specialization** at San José State University with hands-on industry experience across backend engineering, large-scale data pipelines, and applied AI.
+                </div>
 
-- Engineered **production backends** powering AI products, EdTech platforms, and SaaS tools.
-- Authored **3 research papers** (under submission) and **1 published Springer chapter** on Hadoop performance optimization.
-- Experienced in **Java, Python, Spring Boot, FastAPI, AWS, GCP, Kafka, Spark, Hadoop, and modern GenAI tooling**.
+                <br/>
 
----
+                <!-- ╭───────────────────────  ABOUT ME  ───────────────────────╮ -->
 
-## 🏆 Honors & Awards
+                ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;`whoami`
 
-### 🥇 Published Researcher — Springer Lecture Notes (2024)
+                ```yaml
+                name:        "Kanaka Sarat Siripurapu"
+                role:        "Software Engineer · Applied AI / GenAI · Big Data Researcher"
+                location:    "San José, California 🌉"
+                education:   "M.S. Software Engineering — AI Specialization @ SJSU"
+                currently:   "Architecting production backends & agentic AI systems"
+                focus:       ["Distributed Systems", "LLM Apps", "RAG", "Cloud-Native"]
+                fun-fact:    "Published in Springer Lecture Notes 📚"
+                mantra:      "Ship boring tech. Build magical experiences. ✨"
+                ```
 
-*GITAM University, India*
+                > 🚀 Master's student in **Software Engineering — AI Specialization** at **San José State University** with hands-on industry experience across backend engineering, large-scale data pipelines, and applied AI.
+                >
+                > 💡 Engineered **production backends** powering AI products, EdTech, and SaaS tools used by **thousands of users**. Authored **3 research papers** (under submission) and **1 published Springer chapter** on Hadoop performance optimization.
 
-- Co-authored a Springer book chapter on **Hadoop performance optimization for heterogeneous workloads**.
-- Benchmarked **YARN scheduling strategies** across heterogeneous nodes, achieving measurable throughput gains.
-- **3 additional papers** currently under submission in applied AI, distributed systems, and data engineering venues.
+                <br/>
 
----
+                <!-- ╭──────────────  HONORS & AWARDS  ──────────────╮ -->
 
-## 💼 Work Experience
+                ## 🏆 &nbsp;Honors & Awards
 
-### Software Engineer @ Innovate (SaaS Startup)
+                <table>
+                <tr>
+                <td width="80" align="center" valign="top">
+                  <img src="https://img.icons8.com/fluency/96/medal2.png" width="60"/>
+                  </td>
+                  <td valign="top">
 
-📅 *Jan 2024 — July 2025*
+                  ### 🥇 &nbsp;Published Researcher — Springer Lecture Notes &nbsp;`(2024)`
+                  *GITAM University, India*
 
-- **Backend Ownership:** Designed and shipped **REST APIs in Spring Boot** powering core onboarding, billing, and tenant-management flows for a multi-tenant SaaS platform.
-- **Cloud Infrastructure:** Architected services on **AWS (EC2, S3, RDS, Lambda)** with CI/CD via **GitHub Actions**, cutting deploy times by **~40%**.
-- **Cross-Functional Delivery:** Partnered with product and design to launch **5+ customer-facing modules** end-to-end from spec to production.
+                  Co-authored a Springer book chapter on **"Performance Optimization of Hadoop Clusters for Heterogeneous Workloads"** — benchmarked **YARN scheduling strategies** across heterogeneous nodes, achieving measurable throughput gains.
 
-### Backend Engineer @ CodeBeat
+                  **3 additional papers** currently under submission in applied AI, distributed systems, and data engineering venues.
 
-📅 *July 2023 — Dec 2023*
+                  </td>
+                  </tr>
+                  </table>
 
-- **Realtime Systems:** Built **WebSocket and Kafka-based** event pipelines for a collaborative coding/interview platform handling concurrent sessions.
-- **API Performance:** Optimized PostgreSQL queries and added Redis caching layers, **reducing P95 latency by ~55%** on high-traffic endpoints.
-- **Reliability:** Introduced structured logging, monitoring dashboards, and alerting that caught regressions before production incidents.
+                  <br/>
 
-### Instructor / Curriculum Engineer @ Academor
+                  <!-- ╭────────────────  WORK EXPERIENCE  ────────────────╮ -->
 
-📅 *2022 — 2023*
+                  ## 💼 &nbsp;Work Experience
 
-- **Live Instruction:** Delivered cohort-based **Data Structures, Algorithms, and Java** training to **500+ students** across multiple batches.
-- **Curriculum Design:** Authored hands-on coding labs, projects, and assessments aligned with industry interview standards.
-- **Mentorship:** Coached learners 1:1 on system design, problem-solving, and interview prep.
+                  <details open>
+                  <summary><b>🛰️&nbsp;&nbsp;Software Engineer @ Innovate</b> &nbsp;·&nbsp; <i>Jan 2024 — Jul 2025</i></summary>
+                  <br/>
 
----
+                  > Multi-tenant SaaS startup · Backend & Cloud Architecture
 
-## 🚀 Projects & Open Source
+                  - 🧩 **Backend Ownership** — Designed and shipped **REST APIs in Spring Boot** powering onboarding, billing, and tenant-management for a multi-tenant SaaS platform.
+                  - ☁️ **Cloud Infrastructure** — Architected services on **AWS (EC2, S3, RDS, Lambda)** with CI/CD via **GitHub Actions**, cutting deploy times by **~40%**.
+                  - 🤝 **Cross-Functional Delivery** — Partnered with product & design to launch **5+ customer-facing modules** end-to-end, from spec to production.
 
-### 🔹 SalesPilot — AI Sales Copilot
+                  </details>
 
-**RAG-powered sales-assistance tool** that surfaces prospect context and prior conversations on demand.
+                  <details>
+                  <summary><b>⚡&nbsp;&nbsp;Backend Engineer @ CodeBeat</b> &nbsp;·&nbsp; <i>Jul 2023 — Dec 2023</i></summary>
+                  <br/>
 
-- **Functionality:** Ingests CRM + email + call-transcript data into a vector store and answers natural-language queries with citations.
-- **Tech Stack:** Python, FastAPI, vector DB, OpenAI, Next.js.
-- 🔗 [github.com/kanakasaratsiripurapu-dev/salespilot](https://github.com/kanakasaratsiripurapu-dev/salespilot)
+                  > Real-time collaborative coding & interview platform
 
-### 🔹 Unscribe — Smart Subscription Manager
+                  - 🔌 **Realtime Systems** — Built **WebSocket + Kafka-based** event pipelines handling concurrent interview sessions.
+                  - 🚀 **API Performance** — Optimized PostgreSQL queries & added Redis caching layers, **reducing P95 latency by ~55%**.
+                  - 🔭 **Reliability** — Introduced structured logging, monitoring dashboards, and alerting that caught regressions before production incidents.
 
-**Tool to automate unsubscribing from low-value email subscriptions.**
+                  </details>
 
-- **Tech Stack:** Python.
-- 🔗 [github.com/kanakasaratsiripurapu-dev/unscribe](https://github.com/kanakasaratsiripurapu-dev/unscribe)
+                  <details>
+                  <summary><b>🎓&nbsp;&nbsp;Instructor / Curriculum Engineer @ Academor</b> &nbsp;·&nbsp; <i>2022 — 2023</i></summary>
+                  <br/>
 
-### 🔹 Adaptive Ad-Click Optimization with Bandits
+                  > EdTech · DSA / Java Cohorts
 
-**Multi-armed bandit system** for online ad selection.
+                  - 👨‍🏫 **Live Instruction** — Delivered cohort-based **DSA, Algorithms & Java** training to **500+ students**.
+                  - 📚 **Curriculum Design** — Authored hands-on coding labs, projects, and assessments aligned with industry interview standards.
+                  - 🧭 **Mentorship** — Coached learners 1:1 on system design and interview prep — many landed roles at top tech companies.
 
-- **Methodology:** Implements **Epsilon-Greedy, UCB, and Thompson Sampling** to optimize click-through rate under stationary and non-stationary environments.
-- **Tech Stack:** Python, Jupyter, NumPy, Matplotlib.
-- 🔗 [github.com/kanakasaratsiripurapu-dev/adaptive-ad-click-optimization-bandits](https://github.com/kanakasaratsiripurapu-dev/adaptive-ad-click-optimization-bandits)
+                  </details>
 
-### 🔹 EfficientNet Tomato Leaf Disease Classifier
+                  <br/>
 
-**Transfer-learning classifier** for 11-class tomato leaf disease detection (research paper under submission).
+                  <!-- ╭─────────────────  PROJECTS  ─────────────────╮ -->
 
-- **Methodology:** EfficientNet-B0 backbone + Augmentor + Keras pipeline trained on plant-pathology imagery.
-- **Tech Stack:** Python, TensorFlow / Keras, Augmentor, Jupyter.
-- 🔗 [github.com/kanakasaratsiripurapu-dev/efficientnet-tomato-leaf-disease](https://github.com/kanakasaratsiripurapu-dev/efficientnet-tomato-leaf-disease)
+                  ## 🚀 &nbsp;Featured Projects
 
-### 🔹 Hadoop MapReduce — Cancer Survival Analysis
+                  <table>
+                  <tr>
+                  <td width="50%" valign="top">
 
-**HPMR-optimized Hadoop MapReduce pipeline** for breast-cancer survival analysis on the Wisconsin dataset (published research at GITAM University).
+                  #### 🤖 &nbsp;[Unscribe](#) — AI Smart Unsubscribe Agent
+                  > Agentic email-cleanup tool. Uses **LLM classification + Gmail API** to detect promotional / newsletter traffic and execute one-click unsubscribe flows safely.
 
-- **Functionality:** Java + Docker Compose Hadoop cluster running distributed survival-analysis jobs over heterogeneous nodes.
-- **Tech Stack:** Java, Hadoop, MapReduce, Docker, HDFS.
-- 🔗 [github.com/kanakasaratsiripurapu-dev/hadoop-mapreduce-cancer-survival](https://github.com/kanakasaratsiripurapu-dev/hadoop-mapreduce-cancer-survival)
+                  `Python` `FastAPI` `LangChain` `OpenAI` `React`
 
-### 🔹 Multi-Label Telugu News Classification
+                  </td>
+                  <td width="50%" valign="top">
 
-**Multi-label NLP classifier** for Telugu-language news articles — TF-IDF + LinearSVC baseline vs. CNN, LSTM, Bi-LSTM (TensorFlow). Research paper under submission.
+                  #### 🧠 &nbsp;[SalesPilot](#) — AI Sales Copilot
+                  > Production-grade **RAG application** giving sales teams instant context on prospects. Ingests CRM + email + transcripts into a vector store and answers NL queries with citations.
 
-- **Tech Stack:** Python, TensorFlow, scikit-learn, NLTK, Jupyter.
-- 🔗 [github.com/kanakasaratsiripurapu-dev/multilabel-telugu-news-classification](https://github.com/kanakasaratsiripurapu-dev/multilabel-telugu-news-classification)
+                  `Python` `FastAPI` `Pinecone` `OpenAI` `Next.js`
 
-### 🔹 Recommender Systems
+                  </td>
+                  </tr>
+                  <tr>
+                  <td width="50%" valign="top">
 
-**Recommender-systems implementations** exploring collaborative filtering, content-based, and hybrid approaches.
+                  #### 📊 &nbsp;[Hadoop YARN Benchmark](#) — Springer Publication
+                  > Published research evaluating Hadoop cluster performance under heterogeneous workloads. Benchmarked Capacity, Fair & FIFO schedulers on a real cluster.
 
-- **Tech Stack:** Python, Pandas, scikit-learn, Jupyter.
-- 🔗 [github.com/kanakasaratsiripurapu-dev/recommender_systems](https://github.com/kanakasaratsiripurapu-dev/recommender_systems)
+                  `Hadoop` `YARN` `HDFS` `MapReduce` `Java`
 
----
+                  </td>
+                  <td width="50%" valign="top">
 
-## 💻 LeetCode — Live Profile
+                  #### 🌊 &nbsp;[Distributed Big Data Pipeline](#)
+                  > End-to-end **batch + streaming** pipeline on the modern data stack. Ingests events via Kafka, processes with Spark Structured Streaming, lands curated data into a warehouse.
 
-<div align="center">
+                  `Kafka` `Spark` `Hadoop` `Python` `SQL`
 
-[![Kanaka's LeetCode Stats](https://leetcard.jacoblin.cool/kanak_sarat?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/u/kanak_sarat/)
+                  </td>
+                  </tr>
+                  <tr>
+                  <td width="50%" valign="top">
 
-</div>
+                  #### 💻 &nbsp;[Collab Coding Backend](#)
+                  > Low-latency **WebSocket service** powering shared code editing and live interview sessions with operational sync, presence & persistent state.
 
----
+                  `Java` `Spring Boot` `WebSockets` `Redis` `PostgreSQL`
 
-## 🛠 Tech Stack
+                  </td>
+                  <td width="50%" valign="top">
 
-### Languages
+                  #### 🏢 &nbsp;[Multi-Tenant SaaS Backend](#)
+                  > Production **REST API layer** powering tenant onboarding, RBAC, billing & audit logging. JWT auth, plan-based gating, usage metering.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+                  `Java` `Spring Boot` `PostgreSQL` `AWS` `GitHub Actions`
 
-### Backend & Big Data
+                  </td>
+                  </tr>
+                  <tr>
+                  <td width="50%" valign="top">
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+                  #### 📘 &nbsp;[EdTech Learning Platform](#)
+                  > Cohort-based learning portal with assignments, progress tracking, mentor dashboards & automated grading hooks.
 
-### ML / AI
+                  `Java` `Spring Boot` `MySQL` `REST APIs`
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+                  </td>
+                  <td width="50%" valign="top">
 
-### DevOps & Cloud
+                  #### 🧩 &nbsp;[LeetCode — 200+ Problems](https://leetcode.com/u/kanak_sarat/)
+                  > Consistent **DSA + problem-solving** practice across arrays, graphs, DP, heaps, sliding windows, and system-design-style problems.
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+                  `Java` `Python` `DSA`
 
----
+                  </td>
+                  </tr>
+                  </table>
 
-## 📜 Certifications
+                  <br/>
 
-- **AWS:** Cloud Practitioner Essentials
-- **Google Cloud:** Data Engineering on GCP
-- **Coursera / DeepLearning.AI:** Machine Learning Specialization
-- **Springer:** Published Author — Hadoop Performance Optimization (Lecture Notes)
+                  <!-- ╭───────────────  TECH STACK  ───────────────╮ -->
 
----
+                  ## 🛠️ &nbsp;Tech Arsenal
 
-## 🎓 Education
+                  <div align="center">
 
-🎓 **Master of Science (M.S.) in Software Engineering — AI Specialization**  San José State University, San José, CA, USA  📅 *Aug 2025 — Present*
+                  #### &nbsp;💻&nbsp; Languages
+                  <p>
+                  <img src="https://skillicons.dev/icons?i=java,python,js,ts,sql,bash" />
+                  </p>
 
-🎓 **Bachelor of Technology (B.Tech) in Computer Science & Engineering**  GITAM (Deemed-to-be) University, Visakhapatnam, India  📅 *2020 — 2024*
+                  #### &nbsp;⚙️&nbsp; Backend & Frameworks
+                  <p>
+                  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,graphql" />
+                  </p>
 
----
+                  #### &nbsp;🌊&nbsp; Big Data & Streaming
+                  <p>
+                  <img src="https://skillicons.dev/icons?i=kafka,hadoop,&perline=8" />
+                  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="48" />
+                  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" height="48" />
+                  </p>
 
-<div align="center">
+                  #### &nbsp;🤖&nbsp; AI / GenAI
+                  <p>
+                  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="48" />
+                  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48" />
+                  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" height="48" />
+                  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="48" />
+                  </p>
 
-⭐️ From [kanakasaratsiripurapu-dev](https://github.com/kanakasaratsiripurapu-dev)
+                  #### &nbsp;☁️&nbsp; Cloud & DevOps
+                  <p>
+                  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,terraform" />
+                  </p>
 
-</div>
+                  #### &nbsp;🗄️&nbsp; Databases & Storage
+                  <p>
+                  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+                  </p>
+
+                  #### &nbsp;🧰&nbsp; Tools
+                  <p>
+                  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux" />
+                  </p>
+
+                  </div>
+
+                  <br/>
+
+                  <!-- ╭───────────────  GITHUB STATS  ───────────────╮ -->
+
+                  ## 📊 &nbsp;GitHub Pulse
+
+                  <div align="center">
+
+                  <a href="https://github.com/kanakasaratsiripurapu-dev">
+                    <img height="180" src="https://github-readme-stats.vercel.app/api?username=kanakasaratsiripurapu-dev&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=22D3EE&text_color=FFFFFF&bg_color=0D1117" />
+                      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanakasaratsiripurapu-dev&layout=compact&hide_border=true&title_color=8B5CF6&text_color=FFFFFF&bg_color=0D1117&langs_count=8" />
+                      </a>
+
+                      <br/>
+
+                      <a href="https://github.com/kanakasaratsiripurapu-dev">
+                        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanakasaratsiripurapu-dev&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+                        </a>
+
+                        <br/>
+
+                        <a href="https://github.com/kanakasaratsiripurapu-dev">
+                          <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanakasaratsiripurapu-dev&bg_color=0D1117&color=8B5CF6&line=22D3EE&point=FFFFFF&area=true&hide_border=true" />
+                          </a>
+
+                          <br/><br/>
+
+                          <a href="https://github.com/kanakasaratsiripurapu-dev">
+                            <img src="https://github-profile-trophy.vercel.app/?username=kanakasaratsiripurapu-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+                            </a>
+
+                            </div>
+
+                            <br/>
+
+                            <!-- ╭───────────────  LEETCODE  ───────────────╮ -->
+
+                            ## ⚔️ &nbsp;LeetCode Battlefield
+
+                            <div align="center">
+
+                            <a href="https://leetcode.com/u/kanak_sarat/">
+                              <img src="https://leetcard.jacoblin.cool/kanak_sarat?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=18" />
+                              </a>
+
+                              </div>
+
+                              <br/>
+
+                              <!-- ╭───────────────  CERTIFICATIONS  ───────────────╮ -->
+
+                              ## 📜 &nbsp;Certifications
+
+                              <table>
+                              <tr>
+                              <td>☁️</td><td><b>AWS</b> — Cloud Practitioner Essentials</td>
+                              </tr>
+                              <tr>
+                              <td>🌐</td><td><b>Google Cloud</b> — Data Engineering on GCP</td>
+                              </tr>
+                              <tr>
+                              <td>🧠</td><td><b>DeepLearning.AI</b> — Machine Learning Specialization</td>
+                              </tr>
+                              <tr>
+                              <td>📚</td><td><b>Springer</b> — Published Author · Hadoop Performance Optimization</td>
+                              </tr>
+                              </table>
+
+                              <br/>
+
+                              <!-- ╭───────────────  EDUCATION  ───────────────╮ -->
+
+                              ## 🎓 &nbsp;Education
+
+                              <table>
+                              <tr>
+                              <td width="60" align="center" valign="top">🇺🇸</td>
+                              <td valign="top">
+
+                              **M.S. — Software Engineering, AI Specialization**
+                              *San José State University · San José, CA*
+                              `Aug 2025 — Present`
+
+                              </td>
+                              </tr>
+                              <tr>
+                              <td width="60" align="center" valign="top">🇮🇳</td>
+                              <td valign="top">
+
+                              **B.Tech — Computer Science & Engineering**
+                              *GITAM (Deemed-to-be) University · Visakhapatnam, India*
+                              `2020 — 2024`
+
+                              </td>
+                              </tr>
+                              </table>
+
+                              <br/>
+
+                              <!-- ╭───────────────  QUOTE  ───────────────╮ -->
+
+                              ## 💭 &nbsp;Dev Mantra
+
+                              <div align="center">
+
+                              <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+                              </div>
+
+                              <br/>
+
+                              <!-- ╭───────────────  CONNECT  ───────────────╮ -->
+
+                              ## 🌐 &nbsp;Let's Build Something
+
+                              <div align="center">
+
+                              <i>I'm always open to collaborating on backend, distributed systems & GenAI projects.<br/>Drop me a line — let's make ideas ship. ✨</i>
+
+                              <br/><br/>
+
+                              <a href="mailto:kanakasarat.siripurapu@sjsu.edu"><img src="https://img.shields.io/badge/Say%20Hi%20%E2%86%92-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /></a>
+                              <a href="https://www.linkedin.com/in/kanaka-sarat-siripurapu/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
+
+                              </div>
+
+                              <br/>
+
+                              <!-- ╭───────────────  FOOTER  ───────────────╮ -->
+
+                              <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=22&fontAlignY=70&animation=twinkling" />
+
+                              <div align="center">
+
+                              <sub>⭐ <b>If you like what you see, star a repo</b> · Made with ❤ by <a href="https://github.com/kanakasaratsiripurapu-dev">Kanaka Sarat Siripurapu</a></sub>
+
+                              </div>
+                              
