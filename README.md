@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.png" alt="Kanaka Sarat Siripurapu" width="170" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/kanakasaratsiripurapu-dev/kanakasaratsiripurapu-dev/main/profile.png" alt="Kanaka Sarat Siripurapu" width="170" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">KANAKA SARAT SIRIPURAPU</h1>
