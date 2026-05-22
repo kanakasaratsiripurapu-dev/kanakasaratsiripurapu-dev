@@ -2,7 +2,11 @@
 ████████████████████████████████████████████████████████████████████
 KANAKA SARAT SIRIPURAPU — GITHUB PROFILE README
 Design System: violet #8B5CF6 · cyan #22D3EE · pink #F472B6 · bg #0D1117
-Typography: JetBrains Mono · Inter
+Typography Tiers:
+  - Tier 1 (section headers): shields for-the-badge height 36
+  - Tier 2 (subsection H3): markdown ### (single size)
+  - Tier 3 (body): default markdown text
+  All inline badges use for-the-badge style for visual consistency.
 ████████████████████████████████████████████████████████████████████
 -->
 
@@ -13,7 +17,7 @@ Typography: JetBrains Mono · Inter
 <div align="center">
 
 <a href="https://github.com/kanakasaratsiripurapu-dev">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Hey+there%2C+I'm+Sarat+%F0%9F%91%8B;Building+production+backends+%26+agentic+AI+systems;Big+Data+%E2%80%A2+Distributed+Systems+%E2%80%A2+GenAI+Engineering;Published+Springer+Author+%E2%80%A2+M.S.+%40+SJSU" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Hey+there%2C+I'm+Sarat+%F0%9F%91%8B;Building+production+backends+%26+agentic+AI+systems;Big+Data+%E2%80%A2+Distributed+Systems+%E2%80%A2+GenAI+Engineering;Published+Springer+Author+%E2%80%A2+M.S.+%40+SJSU" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -45,19 +49,19 @@ Typography: JetBrains Mono · Inter
 <tr>
 <td width="50%" valign="top">
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-IDENTITY-8B5CF6?style=flat-square&labelColor=0D1117"></picture>
+### Identity
 
 **Kanaka Sarat Siripurapu**
 Software Engineer · Applied AI · Big Data Researcher
 
-📍 &nbsp; San José, California
-🎓 &nbsp; M.S. Software Engineering — AI Specialization, SJSU
-🌐 &nbsp; Open to backend, distributed systems & GenAI roles
+San José, California
+M.S. Software Engineering — AI Specialization, SJSU
+Open to backend, distributed systems & GenAI roles
 
 </td>
 <td width="50%" valign="top">
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-FOCUS-22D3EE?style=flat-square&labelColor=0D1117"></picture>
+### Focus
 
 **Currently Building**
 Agentic AI · RAG Systems · Distributed Backends
@@ -66,7 +70,7 @@ Agentic AI · RAG Systems · Distributed Backends
 1 Springer publication · 3 papers under review
 
 **Mantra**
-*"Ship boring tech. Build magical experiences."* ✨
+Ship boring tech. Build magical experiences.
 
 </td>
 </tr>
@@ -76,19 +80,19 @@ Agentic AI · RAG Systems · Distributed Backends
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%E2%96%B6%20NOW-Architecting%20agentic%20AI%20systems-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/NOW%20%E2%80%93%20Architecting%20agentic%20AI%20systems-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/%E2%9A%A1%20SCALING-Multi--tenant%20backends-22D3EE?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/SCALING%20%E2%80%93%20Multi--tenant%20backends-22D3EE?style=for-the-badge&labelColor=0D1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%94%AC%20RESEARCH-Distributed%20data%20at%20planet%20scale-F472B6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/RESEARCH%20%E2%80%93%20Distributed%20data%20at%20planet%20scale-F472B6?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
 <br/>
 
-> 🚀 &nbsp;Master's student in **Software Engineering — AI Specialization** at **San José State University**, with hands-on industry experience across **backend engineering**, **large-scale data pipelines**, and **applied AI**.
->
-> 💡 &nbsp;Engineered **production backends** powering AI products, EdTech, and SaaS tools used by **thousands of users** — and co-authored a **Springer-published chapter** on Hadoop performance optimization, with **3 more papers** under submission.
+Master's student in **Software Engineering — AI Specialization** at **San José State University**, with hands-on industry experience across **backend engineering**, **large-scale data pipelines**, and **applied AI**.
+
+Engineered **production backends** powering AI products, EdTech, and SaaS tools used by **thousands of users** — and co-authored a **Springer-published chapter** on Hadoop performance optimization, with **3 more papers** under submission.
 
 <br/>
 
@@ -105,24 +109,28 @@ Agentic AI · RAG Systems · Distributed Backends
 <td width="28%" align="center" valign="middle">
 
 <img src="https://img.shields.io/badge/SPRINGER-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+
 <br/><br/>
+
 <img src="https://img.shields.io/badge/2024-22D3EE?style=for-the-badge&labelColor=0D1117" />
+
 <br/><br/>
-<sub>📖 Lecture Notes</sub>
+
+<img src="https://img.shields.io/badge/LECTURE%20NOTES-F472B6?style=for-the-badge&labelColor=0D1117" />
 
 </td>
 <td width="72%" valign="top">
 
-### 🥇 &nbsp;Published Researcher — Springer Lecture Notes
+### Published Researcher — Springer Lecture Notes
 
-*GITAM University, India · 2024*
+**GITAM University, India** — 2024
 
-Co-authored a peer-reviewed Springer chapter on **"Performance Optimization of Hadoop Clusters for Heterogeneous Workloads"** — benchmarked **YARN scheduling strategies** across heterogeneous nodes, delivering measurable throughput gains.
+Co-authored a peer-reviewed Springer chapter on **Performance Optimization of Hadoop Clusters for Heterogeneous Workloads** — benchmarked **YARN scheduling strategies** across heterogeneous nodes, delivering measurable throughput gains.
 
-<img src="https://img.shields.io/badge/Hadoop-8B5CF6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/YARN-22D3EE?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Distributed%20Systems-F472B6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/3%20Papers%20Under%20Review-8B5CF6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/HADOOP-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/YARN-22D3EE?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/DISTRIBUTED%20SYSTEMS-F472B6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/3%20PAPERS%20UNDER%20REVIEW-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 
 </td>
 </tr>
@@ -140,71 +148,71 @@ Co-authored a peer-reviewed Springer chapter on **"Performance Optimization of H
 
 <table align="center" width="100%">
 <tr>
-<td width="22%" align="center" valign="top">
+<td width="24%" align="center" valign="top">
 
 <img src="https://img.shields.io/badge/JAN%202024%20%E2%86%92%20JUL%202025-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
 
-**🛰️ Innovate**
-*Multi-tenant SaaS*
+**Innovate**
+Multi-tenant SaaS
 
 </td>
-<td width="78%" valign="top">
+<td width="76%" valign="top">
 
 ### Software Engineer
 
-*Backend & Cloud Architecture*
+Backend & Cloud Architecture
 
-- 🧩 &nbsp; Designed and shipped **REST APIs in Spring Boot** powering onboarding, billing, and tenant-management for a multi-tenant SaaS platform.
-- ☁️ &nbsp; Architected services on **AWS (EC2, S3, RDS, Lambda)** with CI/CD via **GitHub Actions** — cutting deploy times by **~40%**.
-- 🤝 &nbsp; Partnered with product & design to launch **5+ customer-facing modules** end-to-end, from spec to production.
+- Designed and shipped **REST APIs in Spring Boot** powering onboarding, billing, and tenant-management for a multi-tenant SaaS platform.
+- Architected services on **AWS (EC2, S3, RDS, Lambda)** with CI/CD via **GitHub Actions** — cutting deploy times by **~40%**.
+- Partnered with product & design to launch **5+ customer-facing modules** end-to-end, from spec to production.
 
 </td>
 </tr>
 <tr>
-<td width="22%" align="center" valign="top">
+<td width="24%" align="center" valign="top">
 
 <img src="https://img.shields.io/badge/JUL%202023%20%E2%86%92%20DEC%202023-22D3EE?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
 
-**⚡ CodeBeat**
-*Realtime Collab*
+**CodeBeat**
+Realtime Collab
 
 </td>
-<td width="78%" valign="top">
+<td width="76%" valign="top">
 
 ### Backend Engineer
 
-*Realtime systems & API performance*
+Realtime systems & API performance
 
-- 🔌 &nbsp; Built **WebSocket + Kafka-based** event pipelines handling concurrent interview sessions.
-- 🚀 &nbsp; Optimized PostgreSQL queries & added Redis caching — **reduced P95 latency by ~55%**.
-- 🔭 &nbsp; Introduced structured logging, monitoring dashboards, and alerting that caught regressions before production incidents.
+- Built **WebSocket + Kafka-based** event pipelines handling concurrent interview sessions.
+- Optimized PostgreSQL queries & added Redis caching — **reduced P95 latency by ~55%**.
+- Introduced structured logging, monitoring dashboards, and alerting that caught regressions before production incidents.
 
 </td>
 </tr>
 <tr>
-<td width="22%" align="center" valign="top">
+<td width="24%" align="center" valign="top">
 
 <img src="https://img.shields.io/badge/2022%20%E2%86%92%202023-F472B6?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
 
-**🎓 Academor**
-*EdTech*
+**Academor**
+EdTech
 
 </td>
-<td width="78%" valign="top">
+<td width="76%" valign="top">
 
 ### Instructor / Curriculum Engineer
 
-*DSA · Java · System Design*
+DSA · Java · System Design
 
-- 👨‍🏫 &nbsp; Delivered cohort-based **DSA, Algorithms & Java** training to **500+ students**.
-- 📚 &nbsp; Authored hands-on coding labs, projects, and assessments aligned with industry interview standards.
-- 🧭 &nbsp; Coached learners 1:1 on system design — many landed roles at top tech companies.
+- Delivered cohort-based **DSA, Algorithms & Java** training to **500+ students**.
+- Authored hands-on coding labs, projects, and assessments aligned with industry interview standards.
+- Coached learners 1:1 on system design — many landed roles at top tech companies.
 
 </td>
 </tr>
@@ -224,78 +232,78 @@ Co-authored a peer-reviewed Springer chapter on **"Performance Optimization of H
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 &nbsp;Unscribe — AI Smart Unsubscribe Agent
+### Unscribe — AI Smart Unsubscribe Agent
 
 Agentic email-cleanup tool. Uses **LLM classification + Gmail API** to detect promotional traffic and execute one-click unsubscribe flows safely.
 
-<img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/FastAPI-22D3EE?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/LangChain-F472B6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/OpenAI-8B5CF6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/PYTHON-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FASTAPI-22D3EE?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/LANGCHAIN-F472B6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/OPENAI-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 &nbsp;SalesPilot — AI Sales Copilot
+### SalesPilot — AI Sales Copilot
 
 Production-grade **RAG application** giving sales teams instant context on prospects. Ingests CRM + email + transcripts into a vector store with cited answers.
 
-<img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/FastAPI-22D3EE?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Pinecone-F472B6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Next.js-8B5CF6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/PYTHON-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FASTAPI-22D3EE?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/PINECONE-F472B6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/NEXT.JS-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 &nbsp;Hadoop YARN Benchmark — Springer
+### Hadoop YARN Benchmark — Springer
 
 Published research evaluating Hadoop cluster performance under heterogeneous workloads. Benchmarked Capacity, Fair & FIFO schedulers on a real cluster.
 
-<img src="https://img.shields.io/badge/Hadoop-8B5CF6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/YARN-22D3EE?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/HDFS-F472B6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Java-8B5CF6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/HADOOP-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/YARN-22D3EE?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/HDFS-F472B6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/JAVA-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 
 </td>
 <td width="50%" valign="top">
 
-### 🌊 &nbsp;Distributed Big Data Pipeline
+### Distributed Big Data Pipeline
 
 End-to-end **batch + streaming** pipeline on the modern data stack. Ingests events via Kafka, processes with Spark Structured Streaming, lands data into a warehouse.
 
-<img src="https://img.shields.io/badge/Kafka-8B5CF6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Spark-22D3EE?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Hadoop-F472B6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/KAFKA-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/SPARK-22D3EE?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/HADOOP-F472B6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/PYTHON-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 &nbsp;Collab Coding Backend
+### Collab Coding Backend
 
 Low-latency **WebSocket service** powering shared code editing and live interview sessions with operational sync, presence & persistent state.
 
-<img src="https://img.shields.io/badge/Java-8B5CF6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Spring%20Boot-22D3EE?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Redis-F472B6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/PostgreSQL-8B5CF6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/JAVA-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/SPRING%20BOOT-22D3EE?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/REDIS-F472B6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/POSTGRESQL-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 &nbsp;Multi-Tenant SaaS Backend
+### Multi-Tenant SaaS Backend
 
 Production **REST API layer** powering tenant onboarding, RBAC, billing & audit logging. JWT auth, plan-based gating, usage metering.
 
-<img src="https://img.shields.io/badge/Java-8B5CF6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Spring%20Boot-22D3EE?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/PostgreSQL-F472B6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/AWS-8B5CF6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/JAVA-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/SPRING%20BOOT-22D3EE?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/POSTGRESQL-F472B6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/AWS-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 
 </td>
 </tr>
@@ -307,11 +315,13 @@ Production **REST API layer** powering tenant onboarding, RBAC, billing & audit 
 
 <img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F%20%20TECH%20ARSENAL-8B5CF6?style=for-the-badge&labelColor=0D1117" height="36" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/%E2%97%86%20LANGUAGES-0D1117?style=for-the-badge&labelColor=0D1117" />
+</div>
 
 <br/>
+
+### Languages
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/JAVA-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/PYTHON-22D3EE?style=for-the-badge&labelColor=0D1117" />
@@ -319,11 +329,11 @@ Production **REST API layer** powering tenant onboarding, RBAC, billing & audit 
 <img src="https://img.shields.io/badge/TYPESCRIPT-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/SQL-22D3EE?style=for-the-badge&labelColor=0D1117" />
 
-<br/><br/>
+</div>
 
-<img src="https://img.shields.io/badge/%E2%97%86%20BACKEND%20%26%20FRAMEWORKS-0D1117?style=for-the-badge&labelColor=0D1117" />
+### Backend & Frameworks
 
-<br/>
+<div align="center">
 
 <img src="https://img.shields.io/badge/SPRING%20BOOT-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/FASTAPI-22D3EE?style=for-the-badge&labelColor=0D1117" />
@@ -331,33 +341,33 @@ Production **REST API layer** powering tenant onboarding, RBAC, billing & audit 
 <img src="https://img.shields.io/badge/EXPRESS-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/GRAPHQL-22D3EE?style=for-the-badge&labelColor=0D1117" />
 
-<br/><br/>
+</div>
 
-<img src="https://img.shields.io/badge/%E2%97%86%20BIG%20DATA%20%26%20STREAMING-0D1117?style=for-the-badge&labelColor=0D1117" />
+### Big Data & Streaming
 
-<br/>
+<div align="center">
 
 <img src="https://img.shields.io/badge/APACHE%20KAFKA-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/APACHE%20SPARK-22D3EE?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/HADOOP-F472B6?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/AIRFLOW-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 
-<br/><br/>
+</div>
 
-<img src="https://img.shields.io/badge/%E2%97%86%20AI%20%26%20GENAI-0D1117?style=for-the-badge&labelColor=0D1117" />
+### AI & GenAI
 
-<br/>
+<div align="center">
 
 <img src="https://img.shields.io/badge/OPENAI-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/LANGCHAIN-22D3EE?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/PINECONE-F472B6?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/HUGGING%20FACE-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 
-<br/><br/>
+</div>
 
-<img src="https://img.shields.io/badge/%E2%97%86%20CLOUD%20%26%20DEVOPS-0D1117?style=for-the-badge&labelColor=0D1117" />
+### Cloud & DevOps
 
-<br/>
+<div align="center">
 
 <img src="https://img.shields.io/badge/AWS-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/GCP-22D3EE?style=for-the-badge&labelColor=0D1117" />
@@ -365,11 +375,11 @@ Production **REST API layer** powering tenant onboarding, RBAC, billing & audit 
 <img src="https://img.shields.io/badge/KUBERNETES-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/TERRAFORM-22D3EE?style=for-the-badge&labelColor=0D1117" />
 
-<br/><br/>
+</div>
 
-<img src="https://img.shields.io/badge/%E2%97%86%20DATABASES%20%26%20STORAGE-0D1117?style=for-the-badge&labelColor=0D1117" />
+### Databases & Storage
 
-<br/>
+<div align="center">
 
 <img src="https://img.shields.io/badge/POSTGRESQL-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/MYSQL-22D3EE?style=for-the-badge&labelColor=0D1117" />
@@ -411,40 +421,40 @@ Production **REST API layer** powering tenant onboarding, RBAC, billing & audit 
 
 <table align="center" width="100%">
 <tr>
-<td width="22%" align="center" valign="top">
+<td width="24%" align="center" valign="top">
 
 <img src="https://img.shields.io/badge/AUG%202025%20%E2%86%92%20PRESENT-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
 
-🇺🇸
+<img src="https://img.shields.io/badge/SAN%20JOS%C3%89%2C%20CA-22D3EE?style=for-the-badge&labelColor=0D1117" />
 
 </td>
-<td width="78%" valign="top">
+<td width="76%" valign="top">
 
 ### M.S. Software Engineering — AI Specialization
 
-**San José State University** · San José, California
+**San José State University** — San José, California
 
 Coursework in distributed systems, applied machine learning, advanced algorithms, and AI engineering.
 
 </td>
 </tr>
 <tr>
-<td width="22%" align="center" valign="top">
+<td width="24%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/2020%20%E2%86%92%202024-22D3EE?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/2020%20%E2%86%92%202024-F472B6?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
 
-🇮🇳
+<img src="https://img.shields.io/badge/VISAKHAPATNAM-22D3EE?style=for-the-badge&labelColor=0D1117" />
 
 </td>
-<td width="78%" valign="top">
+<td width="76%" valign="top">
 
 ### B.Tech — Computer Science & Engineering
 
-**GITAM (Deemed-to-be) University** · Visakhapatnam, India
+**GITAM (Deemed-to-be) University** — Visakhapatnam, India
 
 Graduated with a published Springer chapter and a strong foundation in distributed systems & data engineering.
 
@@ -462,7 +472,9 @@ Graduated with a published Springer chapter and a strong foundation in distribut
 
 <img src="https://img.shields.io/badge/AWS%20CLOUD%20PRACTITIONER-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/GCP%20DATA%20ENGINEERING-22D3EE?style=for-the-badge&labelColor=0D1117" />
+
 <br/>
+
 <img src="https://img.shields.io/badge/DEEPLEARNING.AI%20ML%20SPECIALIZATION-F472B6?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/SPRINGER%20PUBLISHED%20AUTHOR-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 
@@ -480,21 +492,21 @@ Graduated with a published Springer chapter and a strong foundation in distribut
 
 <table align="center" width="100%">
 <tr>
-<td align="center" valign="middle" style="padding: 24px;">
+<td align="center" valign="middle">
 
 <br/>
 
-### *"Ship boring tech. Build magical experiences."*
+### Ship boring tech. Build magical experiences.
+
+A quiet rule I keep coming back to.
 
 <br/>
-
-<sub>— a quiet rule I keep coming back to ✨</sub>
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/SIMPLICITY-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/CRAFT-22D3EE?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/IMPACT-F472B6?style=for-the-badge&labelColor=0D1117" />
+
+<br/>
 
 </td>
 </tr>
@@ -508,12 +520,13 @@ Graduated with a published Springer chapter and a strong foundation in distribut
 
 <br/><br/>
 
-*I'm always open to collaborating on backend, distributed systems & GenAI projects.*
-*Drop me a line — let's make ideas ship.* ✨
+I'm always open to collaborating on backend, distributed systems & GenAI projects.
 
-<br/><br/>
+Drop me a line — let's make ideas ship.
 
-<a href="mailto:kanakasarat.siripurapu@sjsu.edu"><img src="https://img.shields.io/badge/SAY%20HI%20%E2%86%92-8B5CF6?style=for-the-badge&labelColor=0D1117" /></a>
+<br/>
+
+<a href="mailto:kanakasarat.siripurapu@sjsu.edu"><img src="https://img.shields.io/badge/SAY%20HI-8B5CF6?style=for-the-badge&labelColor=0D1117" /></a>
 <a href="https://www.linkedin.com/in/kanaka-sarat-siripurapu/"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-22D3EE?style=for-the-badge&labelColor=0D1117" /></a>
 <a href="https://leetcode.com/u/kanak_sarat/"><img src="https://img.shields.io/badge/SOLVE%20WITH%20ME-F472B6?style=for-the-badge&labelColor=0D1117" /></a>
 
@@ -525,6 +538,6 @@ Graduated with a published Springer chapter and a strong foundation in distribut
 
 <div align="center">
 
-<sub>⭐ <b>If you like what you see, star a repo</b> &nbsp;·&nbsp; Crafted with ❤ by <a href="https://github.com/kanakasaratsiripurapu-dev">Kanaka Sarat Siripurapu</a></sub>
+If you like what you see, star a repo  ·  Crafted by <a href="https://github.com/kanakasaratsiripurapu-dev">Kanaka Sarat Siripurapu</a>
 
 </div>
