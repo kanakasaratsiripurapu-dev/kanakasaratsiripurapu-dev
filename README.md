@@ -1,10 +1,9 @@
 <!--
-  ███████████████████████████████████████████████████████████████
+  █████████████████████████████████████████████████████████████
   KANAKA SARAT SIRIPURAPU — GITHUB PROFILE
   Design system: violet (#8B5CF6) → cyan (#22D3EE) gradient
   Accent: pink (#F472B6) · BG: GitHub dark (#0D1117)
-  Typography: JetBrains Mono · Style: glassmorphic / neon
-  ███████████████████████████████████████████████████████████████
+  █████████████████████████████████████████████████████████████
 -->
 
 <a href="https://github.com/kanakasaratsiripurapu-dev">
@@ -19,10 +18,10 @@
 
 <br/>
 
-<a href="mailto:kanakasarat.siripurapu@sjsu.edu"><img src="https://img.shields.io/badge/-Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
-<a href="https://www.linkedin.com/in/kanaka-sarat-siripurapu/"><img src="https://img.shields.io/badge/-LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
-<a href="https://leetcode.com/u/kanak_sarat/"><img src="https://img.shields.io/badge/-LeetCode-F472B6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" /></a>
-<a href="https://github.com/kanakasaratsiripurapu-dev"><img src="https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0D1117" /></a>
+<a href="mailto:kanakasarat.siripurapu@sjsu.edu"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/kanaka-sarat-siripurapu/"><img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://leetcode.com/u/kanak_sarat/"><img src="https://img.shields.io/badge/LeetCode-F472B6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://github.com/kanakasaratsiripurapu-dev"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 
 <br/><br/>
 
@@ -36,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%91%8B%20%20WHOAMI-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/%F0%9F%91%8B%20%20WHOAMI-8B5CF6?style=for-the-badge&labelColor=0D1117" height="36" />
 
 </div>
 
@@ -57,22 +56,11 @@ const sarat = {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-NOW-8B5CF6?style=for-the-badge&labelColor=0D1117" /><br/><br/>
-<sub><b>Architecting agentic<br/>AI systems</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-SCALING-22D3EE?style=for-the-badge&labelColor=0D1117" /><br/><br/>
-<sub><b>Multi-tenant<br/>backends</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/-RESEARCH-F472B6?style=for-the-badge&labelColor=0D1117" /><br/><br/>
-<sub><b>Distributed data<br/>at planet scale</b></sub>
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/%E2%9A%A1%20NOW-Architecting%20agentic%20AI%20systems-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%93%88%20SCALING-Multi--tenant%20backends-22D3EE?style=for-the-badge&labelColor=0D1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%94%AC%20RESEARCH-Distributed%20data%20at%20scale-F472B6?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
@@ -86,30 +74,33 @@ const sarat = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%8F%86%20%20HONORS%20%26%20AWARDS-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/%F0%9F%8F%86%20%20HONORS%20%26%20AWARDS-8B5CF6?style=for-the-badge&labelColor=0D1117" height="36" />
 
 </div>
 
 <br/>
 
-<table>
+<table align="center">
 <tr>
-<td width="160" align="center" valign="middle">
-<img src="https://img.shields.io/badge/SPRINGER-2024-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<td width="220" align="center" valign="middle">
+
+<br/>
+<img src="https://img.shields.io/badge/%F0%9F%A5%87%20SPRINGER%20%E2%80%A2%202024-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 <br/><br/>
-<img src="https://img.icons8.com/fluency/96/medal2.png" width="56"/>
+<sub><b>Peer-reviewed<br/>Book Chapter</b></sub>
+<br/>
 </td>
 <td valign="top">
 
-### 🥇 &nbsp;Published Researcher — Springer Lecture Notes
+### Published Researcher — Springer Lecture Notes
 <sub><i>GITAM University, India · 2024</i></sub>
 
 Co-authored a peer-reviewed Springer chapter on **"Performance Optimization of Hadoop Clusters for Heterogeneous Workloads"** — benchmarked **YARN scheduling strategies** across heterogeneous nodes, delivering measurable throughput gains.
 
-<img src="https://img.shields.io/badge/-Hadoop-8B5CF6?style=flat-square&labelColor=0D1117&logo=apachehadoop&logoColor=white" />
-<img src="https://img.shields.io/badge/-YARN-22D3EE?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-Distributed%20Systems-F472B6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-3%20Papers%20Under%20Review-8B5CF6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Hadoop-8B5CF6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/YARN-22D3EE?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Distributed%20Systems-F472B6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/3%20Papers%20Under%20Review-8B5CF6?style=flat-square&labelColor=0D1117" />
 
 </td>
 </tr>
@@ -119,25 +110,28 @@ Co-authored a peer-reviewed Springer chapter on **"Performance Optimization of H
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%92%BC%20%20WORK%20EXPERIENCE-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20%20WORK%20EXPERIENCE-8B5CF6?style=for-the-badge&labelColor=0D1117" height="36" />
 
 </div>
 
 <br/>
 
-<table>
+<table align="center">
 <tr>
-<td width="180" valign="top" align="center">
-<img src="https://img.shields.io/badge/JAN%202024-JUL%202025-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<td width="220" valign="top" align="center">
+
+<br/>
+<img src="https://img.shields.io/badge/JAN%202024%20%E2%86%92%20JUL%202025-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 <br/><br/>
-<sub><b>🛰️ &nbsp;Innovate</b></sub>
+<b>🛰️ &nbsp;Innovate</b>
 <br/>
 <sub><i>Multi-tenant SaaS</i></sub>
+
 </td>
 <td valign="top">
 
 ### Software Engineer
-<sub>Backend & Cloud Architecture</sub>
+<sub><i>Backend & Cloud Architecture</i></sub>
 
 - 🧩 &nbsp;Designed and shipped **REST APIs in Spring Boot** powering onboarding, billing, and tenant-management for a multi-tenant SaaS platform.
 - ☁️ &nbsp;Architected services on **AWS (EC2, S3, RDS, Lambda)** with CI/CD via **GitHub Actions** — cutting deploy times by **~40%**.
@@ -146,17 +140,20 @@ Co-authored a peer-reviewed Springer chapter on **"Performance Optimization of H
 </td>
 </tr>
 <tr>
-<td width="180" valign="top" align="center">
-<img src="https://img.shields.io/badge/JUL%202023-DEC%202023-22D3EE?style=for-the-badge&labelColor=0D1117" />
-<br/><br/>
-<sub><b>⚡ &nbsp;CodeBeat</b></sub>
+<td width="220" valign="top" align="center">
+
 <br/>
-<sub><i>Realtime Collab</i></sub>
+<img src="https://img.shields.io/badge/JUL%202023%20%E2%86%92%20DEC%202023-22D3EE?style=for-the-badge&labelColor=0D1117" />
+<br/><br/>
+<b>⚡ &nbsp;CodeBeat</b>
+<br/>
+<sub><i>Realtime Collaboration</i></sub>
+
 </td>
 <td valign="top">
 
 ### Backend Engineer
-<sub>Realtime systems & API performance</sub>
+<sub><i>Realtime systems & API performance</i></sub>
 
 - 🔌 &nbsp;Built **WebSocket + Kafka-based** event pipelines handling concurrent interview sessions.
 - 🚀 &nbsp;Optimized PostgreSQL queries & added Redis caching — **reduced P95 latency by ~55%**.
@@ -165,17 +162,20 @@ Co-authored a peer-reviewed Springer chapter on **"Performance Optimization of H
 </td>
 </tr>
 <tr>
-<td width="180" valign="top" align="center">
-<img src="https://img.shields.io/badge/2022-2023-F472B6?style=for-the-badge&labelColor=0D1117" />
+<td width="220" valign="top" align="center">
+
+<br/>
+<img src="https://img.shields.io/badge/2022%20%E2%86%92%202023-F472B6?style=for-the-badge&labelColor=0D1117" />
 <br/><br/>
-<sub><b>🎓 &nbsp;Academor</b></sub>
+<b>🎓 &nbsp;Academor</b>
 <br/>
 <sub><i>EdTech</i></sub>
+
 </td>
 <td valign="top">
 
 ### Instructor / Curriculum Engineer
-<sub>DSA · Java · System Design</sub>
+<sub><i>DSA · Java · System Design</i></sub>
 
 - 👨‍🏫 &nbsp;Delivered cohort-based **DSA, Algorithms & Java** training to **500+ students**.
 - 📚 &nbsp;Authored hands-on coding labs, projects, and assessments aligned with industry interview standards.
@@ -189,9 +189,11 @@ Co-authored a peer-reviewed Springer chapter on **"Performance Optimization of H
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%9A%80%20%20FEATURED%20PROJECTS-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/%F0%9F%9A%80%20%20FEATURED%20PROJECTS-8B5CF6?style=for-the-badge&labelColor=0D1117" height="36" />
 
 </div>
+
+<br/>
 
 <table>
 <tr>
@@ -200,10 +202,12 @@ Co-authored a peer-reviewed Springer chapter on **"Performance Optimization of H
 #### 🤖 &nbsp;Unscribe — AI Smart Unsubscribe Agent
 <sub>Agentic email-cleanup tool. Uses <b>LLM classification + Gmail API</b> to detect promotional traffic and execute one-click unsubscribe flows safely.</sub>
 
-<img src="https://img.shields.io/badge/-Python-8B5CF6?style=flat-square&labelColor=0D1117&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-FastAPI-22D3EE?style=flat-square&labelColor=0D1117&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/-LangChain-F472B6?style=flat-square&labelColor=0D1117&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/-OpenAI-8B5CF6?style=flat-square&labelColor=0D1117&logo=openai&logoColor=white" />
+<br/>
+
+<img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FastAPI-22D3EE?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/LangChain-F472B6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/OpenAI-8B5CF6?style=flat-square&labelColor=0D1117" />
 
 </td>
 <td width="50%" valign="top">
@@ -211,10 +215,12 @@ Co-authored a peer-reviewed Springer chapter on **"Performance Optimization of H
 #### 🧠 &nbsp;SalesPilot — AI Sales Copilot
 <sub>Production-grade <b>RAG application</b> giving sales teams instant context on prospects. Ingests CRM + email + transcripts into a vector store with cited answers.</sub>
 
-<img src="https://img.shields.io/badge/-Python-8B5CF6?style=flat-square&labelColor=0D1117&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-FastAPI-22D3EE?style=flat-square&labelColor=0D1117&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/-Pinecone-F472B6?style=flat-square&labelColor=0D1117&logo=pinecone&logoColor=white" />
-<img src="https://img.shields.io/badge/-Next.js-8B5CF6?style=flat-square&labelColor=0D1117&logo=nextdotjs&logoColor=white" />
+<br/>
+
+<img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FastAPI-22D3EE?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Pinecone-F472B6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Next.js-8B5CF6?style=flat-square&labelColor=0D1117" />
 
 </td>
 </tr>
@@ -224,10 +230,12 @@ Co-authored a peer-reviewed Springer chapter on **"Performance Optimization of H
 #### 📊 &nbsp;Hadoop YARN Benchmark — Springer
 <sub>Published research evaluating Hadoop cluster performance under heterogeneous workloads. Benchmarked Capacity, Fair & FIFO schedulers on a real cluster.</sub>
 
-<img src="https://img.shields.io/badge/-Hadoop-8B5CF6?style=flat-square&labelColor=0D1117&logo=apachehadoop&logoColor=white" />
-<img src="https://img.shields.io/badge/-YARN-22D3EE?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-HDFS-F472B6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-Java-8B5CF6?style=flat-square&labelColor=0D1117&logo=openjdk&logoColor=white" />
+<br/>
+
+<img src="https://img.shields.io/badge/Hadoop-8B5CF6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/YARN-22D3EE?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/HDFS-F472B6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Java-8B5CF6?style=flat-square&labelColor=0D1117" />
 
 </td>
 <td width="50%" valign="top">
@@ -235,10 +243,12 @@ Co-authored a peer-reviewed Springer chapter on **"Performance Optimization of H
 #### 🌊 &nbsp;Distributed Big Data Pipeline
 <sub>End-to-end <b>batch + streaming</b> pipeline on the modern data stack. Ingests events via Kafka, processes with Spark Structured Streaming, lands data into a warehouse.</sub>
 
-<img src="https://img.shields.io/badge/-Kafka-8B5CF6?style=flat-square&labelColor=0D1117&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/-Spark-22D3EE?style=flat-square&labelColor=0D1117&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Hadoop-F472B6?style=flat-square&labelColor=0D1117&logo=apachehadoop&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python-8B5CF6?style=flat-square&labelColor=0D1117&logo=python&logoColor=white" />
+<br/>
+
+<img src="https://img.shields.io/badge/Kafka-8B5CF6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Spark-22D3EE?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Hadoop-F472B6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&labelColor=0D1117" />
 
 </td>
 </tr>
@@ -248,10 +258,12 @@ Co-authored a peer-reviewed Springer chapter on **"Performance Optimization of H
 #### 💻 &nbsp;Collab Coding Backend
 <sub>Low-latency <b>WebSocket service</b> powering shared code editing and live interview sessions with operational sync, presence & persistent state.</sub>
 
-<img src="https://img.shields.io/badge/-Java-8B5CF6?style=flat-square&labelColor=0D1117&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/-Spring%20Boot-22D3EE?style=flat-square&labelColor=0D1117&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/-Redis-F472B6?style=flat-square&labelColor=0D1117&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/-PostgreSQL-8B5CF6?style=flat-square&labelColor=0D1117&logo=postgresql&logoColor=white" />
+<br/>
+
+<img src="https://img.shields.io/badge/Java-8B5CF6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Spring%20Boot-22D3EE?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Redis-F472B6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/PostgreSQL-8B5CF6?style=flat-square&labelColor=0D1117" />
 
 </td>
 <td width="50%" valign="top">
@@ -259,10 +271,12 @@ Co-authored a peer-reviewed Springer chapter on **"Performance Optimization of H
 #### 🏢 &nbsp;Multi-Tenant SaaS Backend
 <sub>Production <b>REST API layer</b> powering tenant onboarding, RBAC, billing & audit logging. JWT auth, plan-based gating, usage metering.</sub>
 
-<img src="https://img.shields.io/badge/-Java-8B5CF6?style=flat-square&labelColor=0D1117&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/-Spring%20Boot-22D3EE?style=flat-square&labelColor=0D1117&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/-PostgreSQL-F472B6?style=flat-square&labelColor=0D1117&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS-8B5CF6?style=flat-square&labelColor=0D1117&logo=amazonaws&logoColor=white" />
+<br/>
+
+<img src="https://img.shields.io/badge/Java-8B5CF6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Spring%20Boot-22D3EE?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/PostgreSQL-F472B6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/AWS-8B5CF6?style=flat-square&labelColor=0D1117" />
 
 </td>
 </tr>
@@ -272,64 +286,64 @@ Co-authored a peer-reviewed Springer chapter on **"Performance Optimization of H
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F%20%20TECH%20ARSENAL-8B5CF6?style=for-the-badge&labelColor=0D1117" />
-
-<br/>
-
-<sub><b>LANGUAGES</b></sub>
-<br/>
-<img src="https://img.shields.io/badge/-Java-8B5CF6?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-Python-22D3EE?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-JavaScript-F472B6?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-TypeScript-8B5CF6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-SQL-22D3EE?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F%20%20TECH%20ARSENAL-8B5CF6?style=for-the-badge&labelColor=0D1117" height="36" />
 
 <br/><br/>
 
-<sub><b>BACKEND &amp; FRAMEWORKS</b></sub>
-<br/>
-<img src="https://img.shields.io/badge/-Spring%20Boot-8B5CF6?style=for-the-badge&logo=spring&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-FastAPI-22D3EE?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-Node.js-F472B6?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-Express-8B5CF6?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-GraphQL-22D3EE?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/%E2%9D%96%20%20LANGUAGES-0D1117?style=for-the-badge&labelColor=0D1117" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Java-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Python-22D3EE?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/JavaScript-F472B6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/SQL-22D3EE?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
 
-<sub><b>BIG DATA &amp; STREAMING</b></sub>
-<br/>
-<img src="https://img.shields.io/badge/-Apache%20Kafka-8B5CF6?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-Apache%20Spark-22D3EE?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-Hadoop-F472B6?style=for-the-badge&logo=apachehadoop&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-Airflow-8B5CF6?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/%E2%9D%96%20%20BACKEND%20%26%20FRAMEWORKS-0D1117?style=for-the-badge&labelColor=0D1117" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Spring%20Boot-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FastAPI-22D3EE?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Node.js-F472B6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Express-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/GraphQL-22D3EE?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
 
-<sub><b>AI &amp; GENAI</b></sub>
-<br/>
-<img src="https://img.shields.io/badge/-OpenAI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-LangChain-22D3EE?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-Pinecone-F472B6?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-Hugging%20Face-8B5CF6?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/%E2%9D%96%20%20BIG%20DATA%20%26%20STREAMING-0D1117?style=for-the-badge&labelColor=0D1117" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Apache%20Spark-22D3EE?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Hadoop-F472B6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Airflow-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
 
-<sub><b>CLOUD &amp; DEVOPS</b></sub>
-<br/>
-<img src="https://img.shields.io/badge/-AWS-8B5CF6?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-GCP-22D3EE?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-Docker-F472B6?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-Kubernetes-8B5CF6?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-Terraform-22D3EE?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/%E2%9D%96%20%20AI%20%26%20GENAI-0D1117?style=for-the-badge&labelColor=0D1117" />
+<br/><br/>
+<img src="https://img.shields.io/badge/OpenAI-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/LangChain-22D3EE?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Pinecone-F472B6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Hugging%20Face-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
 
-<sub><b>DATABASES &amp; STORAGE</b></sub>
-<br/>
-<img src="https://img.shields.io/badge/-PostgreSQL-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-MySQL-22D3EE?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-MongoDB-F472B6?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-Redis-8B5CF6?style=for-the-badge&logo=redis&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/%E2%9D%96%20%20CLOUD%20%26%20DEVOPS-0D1117?style=for-the-badge&labelColor=0D1117" />
+<br/><br/>
+<img src="https://img.shields.io/badge/AWS-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/GCP-22D3EE?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Docker-F472B6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Kubernetes-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Terraform-22D3EE?style=for-the-badge&labelColor=0D1117" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%E2%9D%96%20%20DATABASES%20%26%20STORAGE-0D1117?style=for-the-badge&labelColor=0D1117" />
+<br/><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MySQL-22D3EE?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MongoDB-F472B6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Redis-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
@@ -337,13 +351,13 @@ Co-authored a peer-reviewed Springer chapter on **"Performance Optimization of H
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%93%8A%20%20GITHUB%20PULSE-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8A%20%20GITHUB%20PULSE-8B5CF6?style=for-the-badge&labelColor=0D1117" height="36" />
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/kanakasaratsiripurapu-dev">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kanakasaratsiripurapu-dev&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=22D3EE&text_color=FFFFFF&bg_color=0D1117" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanakasaratsiripurapu-dev&layout=compact&hide_border=true&title_color=8B5CF6&text_color=FFFFFF&bg_color=0D1117&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kanakasaratsiripurapu-dev&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=22D3EE&text_color=FFFFFF&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanakasaratsiripurapu-dev&layout=compact&hide_border=true&title_color=8B5CF6&text_color=FFFFFF&bg_color=0D1117&langs_count=8" />
 </a>
 
 <br/><br/>
@@ -352,30 +366,18 @@ Co-authored a peer-reviewed Springer chapter on **"Performance Optimization of H
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanakasaratsiripurapu-dev&hide_border=true&background=0D1117&stroke=8B5CF6&ring=22D3EE&fire=F472B6&currStreakLabel=22D3EE&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/kanakasaratsiripurapu-dev">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanakasaratsiripurapu-dev&bg_color=0D1117&color=8B5CF6&line=22D3EE&point=F472B6&area=true&hide_border=true" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/kanakasaratsiripurapu-dev">
-  <img src="https://github-profile-trophy.vercel.app/?username=kanakasaratsiripurapu-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</a>
-
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20%20LEETCODE%20BATTLEFIELD-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F%20%20LEETCODE%20BATTLEFIELD-8B5CF6?style=for-the-badge&labelColor=0D1117" height="36" />
 
-<br/>
+<br/><br/>
 
 <a href="https://leetcode.com/u/kanak_sarat/">
-  <img src="https://leetcard.jacoblin.cool/kanak_sarat?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=18&hide=" />
+  <img src="https://leetcard.jacoblin.cool/kanak_sarat?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=18" />
 </a>
 
 </div>
@@ -384,16 +386,21 @@ Co-authored a peer-reviewed Springer chapter on **"Performance Optimization of H
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%8E%93%20%20EDUCATION-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%93%20%20EDUCATION-8B5CF6?style=for-the-badge&labelColor=0D1117" height="36" />
 
 </div>
 
-<table>
+<br/>
+
+<table align="center">
 <tr>
-<td width="180" align="center" valign="top">
-<img src="https://img.shields.io/badge/AUG%202025-PRESENT-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<td width="220" align="center" valign="top">
+
+<br/>
+<img src="https://img.shields.io/badge/AUG%202025%20%E2%86%92%20PRESENT-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 <br/><br/>
-🇺🇸
+<sub>🇺🇸 &nbsp;<b>USA</b></sub>
+
 </td>
 <td valign="top">
 
@@ -404,12 +411,14 @@ Coursework in distributed systems, applied machine learning, advanced algorithms
 
 </td>
 </tr>
-<tr><td colspan="2"><img src="https://img.shields.io/badge/-_-8B5CF6?style=flat-square" height="2" width="100%" /></td></tr>
 <tr>
-<td width="180" align="center" valign="top">
-<img src="https://img.shields.io/badge/2020-2024-22D3EE?style=for-the-badge&labelColor=0D1117" />
+<td width="220" align="center" valign="top">
+
+<br/>
+<img src="https://img.shields.io/badge/2020%20%E2%86%92%202024-22D3EE?style=for-the-badge&labelColor=0D1117" />
 <br/><br/>
-🇮🇳
+<sub>🇮🇳 &nbsp;<b>India</b></sub>
+
 </td>
 <td valign="top">
 
@@ -426,15 +435,17 @@ Graduated with a published Springer chapter and a strong foundation in distribut
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%93%9C%20%20CERTIFICATIONS-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/%F0%9F%93%9C%20%20CERTIFICATIONS-8B5CF6?style=for-the-badge&labelColor=0D1117" height="36" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/GCP%20Data%20Engineering-22D3EE?style=for-the-badge&labelColor=0D1117" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-8B5CF6?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-GCP%20Data%20Engineering-22D3EE?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0D1117" />
-<br/>
-<img src="https://img.shields.io/badge/-DeepLearning.AI%20ML%20Specialization-F472B6?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/-Springer%20Published%20Author-8B5CF6?style=for-the-badge&logo=springer&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/DeepLearning.AI%20ML%20Specialization-F472B6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Springer%20Published%20Author-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
@@ -442,9 +453,9 @@ Graduated with a published Springer chapter and a strong foundation in distribut
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%92%AD%20%20DEV%20MANTRA-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/%F0%9F%92%AD%20%20DEV%20MANTRA-8B5CF6?style=for-the-badge&labelColor=0D1117" height="36" />
 
-<br/>
+<br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
@@ -454,15 +465,15 @@ Graduated with a published Springer chapter and a strong foundation in distribut
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%8C%90%20%20LET'S%20BUILD%20SOMETHING-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20%20LET'S%20BUILD%20SOMETHING-8B5CF6?style=for-the-badge&labelColor=0D1117" height="36" />
 
-<br/>
+<br/><br/>
 
 <i>I'm always open to collaborating on backend, distributed systems & GenAI projects.<br/>Drop me a line — let's make ideas ship. ✨</i>
 
 <br/><br/>
 
-<a href="mailto:kanakasarat.siripurapu@sjsu.edu"><img src="https://img.shields.io/badge/Say%20Hi%20%E2%86%92-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
+<a href="mailto:kanakasarat.siripurapu@sjsu.edu"><img src="https://img.shields.io/badge/Say%20Hi-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
 <a href="https://www.linkedin.com/in/kanaka-sarat-siripurapu/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
 <a href="https://leetcode.com/u/kanak_sarat/"><img src="https://img.shields.io/badge/Solve%20with%20Me-F472B6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" /></a>
 
